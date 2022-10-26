@@ -8,7 +8,7 @@ You good good. I bad bad!!
 
 I can do lots of things!!!
 
--eat
--play
--run
+- eat
+- play
+- run
  
